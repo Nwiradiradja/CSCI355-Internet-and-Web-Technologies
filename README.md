@@ -16,3 +16,11 @@
 
 Understand how Internet technologies deliver content across the web. Describe how clients and servers communicate using various protocols. Analyzing the packet structure using inspector tools. Learn techniques and best practices in designing scalable web pages. REST API infrastructure and integration. Cloud Technology and Software.
 
+## Two Projects
+
+### Project 1
+![Auriel](https://github.com/Nwiradiradja/CSCI355-Internet-and-Web-Technologies/blob/main/AurielWebPage.png?raw=true)
+
+### Project 2
+![Cafe](https://github.com/Nwiradiradja/CSCI355-Internet-and-Web-Technologies/blob/main/CafeWebPage.png?raw=true)
+
