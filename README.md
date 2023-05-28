@@ -1,7 +1,7 @@
-### CSCI355-Internet-and-Web-Technologies
+# CSCI355-Internet-and-Web-Technologies
 
 ## Overview
-# The Course Covered
+### The Course Covered
 Internet protocol stack, analysis of representative protocols; Internet applications: client-server
 architecture, popular Internet application protocols, Internet application design, client side
 programming, server side programming, Web application and Web site design; programming
